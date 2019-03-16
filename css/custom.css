@@ -4,7 +4,7 @@
 }
 
 #head {
-  background-image: url(images/brick.JPG);
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
 }
 .break td {
   border-bottom-width: medium;
